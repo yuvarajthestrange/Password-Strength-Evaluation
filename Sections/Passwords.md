@@ -47,6 +47,3 @@
 3. Use the risk assessments for awareness training
 
 > **Pro Tip**: Generate stronger passwords with [Bitwarden Generator](https://bitwarden.com/password-generator/)
-```
-
-
