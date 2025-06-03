@@ -1,5 +1,4 @@
 
-```
 # Password Security Evaluation Report
 
 ## Project Overview
