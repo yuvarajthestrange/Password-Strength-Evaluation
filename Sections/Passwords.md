@@ -1,5 +1,4 @@
 
-```
 # Password List & Analysis
 
 ## Generated Passwords with Strength Levels
