@@ -1,5 +1,4 @@
 
-```
 # Password Security Best Practices & Lessons Learned
 
 ## 1. Modern Password Policy Guidelines
