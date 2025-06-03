@@ -1,5 +1,4 @@
 
-```
 # Password Attacks & Complexity Impact Analysis
 
 ## 1. Attack Vector Taxonomy
