@@ -1,5 +1,4 @@
 
-```
 # Password Strength Test Results
 
 ## Cross-Platform Evaluation Matrix
